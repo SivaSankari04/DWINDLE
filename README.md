@@ -40,6 +40,7 @@ API credentials are excluded from this repository. To run the app fully, configu
 - Firebase configuration
 - MQTT broker details
 - AI service API key
+
 Note:
 This project is provided primarily as a reference for learning and development. It is not directly plug-and-play and requires the appropriate API credentials, IoT hardware, and configuration for full functionality.
 
